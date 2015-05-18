@@ -6,7 +6,7 @@ using System.Diagnostics;
 
 namespace AverageMonoid
 {
-Test
+Test3
     class Program
     {
         const int NUM_OF_CYCLE = 1000000;
